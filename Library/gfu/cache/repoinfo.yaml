@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-04-28T08:23:49.277+10:00
-  initializedAtString: 2021-04-28T08:23:49.277+10:00
+  lastUpdatedAtString: 2021-04-28T09:50:15.838+10:00
+  initializedAtString: 2021-04-28T09:16:59.582+10:00
   currentGitRemote:
     name: origin
-    url: https://github.com/danielirwin11/IGB100-A2-T38.git
+    url: https://github.com/ryantappenden/IGB100-A2-T38.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: main
     remote:
       name: origin
-      url: https://github.com/danielirwin11/IGB100-A2-T38.git
+      url: https://github.com/ryantappenden/IGB100-A2-T38.git
     trackingBranch: main
   currentConfigRemote:
     name: origin
-    url: https://github.com/danielirwin11/IGB100-A2-T38.git
+    url: https://github.com/ryantappenden/IGB100-A2-T38.git
   currentHead: 

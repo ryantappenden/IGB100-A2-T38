@@ -13,16 +13,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-04-28T08:31:36.449+10:00
-  initializedAtString: 2021-04-28T08:23:49.329+10:00
+  lastUpdatedAtString: 2021-04-28T09:50:15.850+10:00
+  initializedAtString: 2021-04-28T09:34:37.911+10:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
-  - name: origin/main
+  - name: origin/HEAD
     tracking: '[None]'
   remotes:
   - name: origin
+    url: https://github.com/ryantappenden/IGB100-A2-T38.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  - name: upstream
     url: https://github.com/danielirwin11/IGB100-A2-T38.git
     login: 
     user: 
@@ -36,24 +43,27 @@ MonoBehaviour:
     - name: main
       remote:
         name: origin
-        url: https://github.com/danielirwin11/IGB100-A2-T38.git
+        url: https://github.com/ryantappenden/IGB100-A2-T38.git
       trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - main
+      - HEAD
     subKeyValues:
     - Values:
-      - name: main
+      - name: HEAD
         remote:
           name: origin
-          url: https://github.com/danielirwin11/IGB100-A2-T38.git
+          url: https://github.com/ryantappenden/IGB100-A2-T38.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
+    - upstream
     values:
     - name: origin
+      url: https://github.com/ryantappenden/IGB100-A2-T38.git
+    - name: upstream
       url: https://github.com/danielirwin11/IGB100-A2-T38.git
