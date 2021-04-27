@@ -1,0 +1,313 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 32717 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/dirwi/Downloads/IGB100 W5 Base
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51948
+Successfully changed project path to: C:/Users/dirwi/Downloads/IGB100 W5 Base
+C:/Users/dirwi/Downloads/IGB100 W5 Base
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/dirwi/Downloads/IGB100 W5 Base/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 SUPER (ID=0x1e81)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56852
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002169 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.952 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001760 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.774 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1460 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.3 MB.
+System memory in use after: 79.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1905.
+Total: 2.087700 ms (FindLiveObjects: 0.290900 ms CreateObjectMapping: 0.038000 ms MarkObjects: 1.669400 ms  DeleteObjects: 0.088200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sword.fbx
+  artifactKey: Guid(c6390e73bd6cf8a4a87fd393bf2ec4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sword.fbx using Guid(c6390e73bd6cf8a4a87fd393bf2ec4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e5409624a3496a731c427ec43a8f42') in 0.387201 seconds
+  Import took 0.390621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 244.707640 seconds.
+  path: Assets/Sword.mb
+  artifactKey: Guid(23d792aac88597140ad585c983458521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sword.mb using Guid(23d792aac88597140ad585c983458521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602ab721894c123ff3307dd0f29527bb') in 0.029263 seconds
+  Import took 0.032927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 352.957580 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(e1cad2247600ae0478217554d5d143db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(e1cad2247600ae0478217554d5d143db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90567f95c7964a2e0477946152d845c') in 0.007082 seconds
+  Import took 0.011369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.736728 seconds.
+  path: Assets/Textures/SwordShield
+  artifactKey: Guid(42e24a8834d007f49b32c980cbdbe2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield using Guid(42e24a8834d007f49b32c980cbdbe2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657d1282f1107528d64cef3c5109c403') in 0.008677 seconds
+  Import took 0.012641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.157704 seconds.
+  path: Assets/Textures/SwordShield/gold_matte_Base_Color.png
+  artifactKey: Guid(7e052565478f10848bcf626a2114b951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/gold_matte_Base_Color.png using Guid(7e052565478f10848bcf626a2114b951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1284253541bbb6997fb36dcfcd9fcf50') in 0.042811 seconds
+  Import took 0.045400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Textures/SwordShield/silver_matte_Metallic.png
+  artifactKey: Guid(add715461f144f647b4c413eadba3fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/silver_matte_Metallic.png using Guid(add715461f144f647b4c413eadba3fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '786eb9f48687aa2d853ec7b6e34694d6') in 0.011839 seconds
+  Import took 0.014304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Textures/SwordShield/gold_matte_Metallic.png
+  artifactKey: Guid(974b503db06c37348a60a757fd596cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/gold_matte_Metallic.png using Guid(974b503db06c37348a60a757fd596cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f67c5fffed90d5d1692f17c9de4ee8') in 0.011786 seconds
+  Import took 0.014353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Textures/SwordShield/silver_matte_Roughness.png
+  artifactKey: Guid(fbbc811c55343f5489c27aa550b6db70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/silver_matte_Roughness.png using Guid(fbbc811c55343f5489c27aa550b6db70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3244277a7f6df7e005b70226d6b7c9a') in 0.010627 seconds
+  Import took 0.013032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Textures/SwordShield/leather_hilts_Height.png
+  artifactKey: Guid(680baf6001328d04791aad2b8cc500f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/leather_hilts_Height.png using Guid(680baf6001328d04791aad2b8cc500f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '473fb075fd40768360bd3a81cf1bd5e3') in 0.011131 seconds
+  Import took 0.013304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Textures/SwordShield/silver_matte_Height.png
+  artifactKey: Guid(b7fb1fb4a40cdd445ae0a8ff04f3e082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/silver_matte_Height.png using Guid(b7fb1fb4a40cdd445ae0a8ff04f3e082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0369c6a4aa3376e79b5e804aed6f12e8') in 0.010224 seconds
+  Import took 0.012279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Textures/SwordShield/leather_hilts_Base_Color.png
+  artifactKey: Guid(2b2d98021155eb745991f0800d23c44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/leather_hilts_Base_Color.png using Guid(2b2d98021155eb745991f0800d23c44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eb57a3d34bbdecc9ef144d22f8fbec8') in 0.010457 seconds
+  Import took 0.012871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Textures/SwordShield/gold_matte_Height.png
+  artifactKey: Guid(33206335cc5a47148a97074bc5b27461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/gold_matte_Height.png using Guid(33206335cc5a47148a97074bc5b27461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496bf2b85a1fbac23309187a8e14e1a1') in 0.012944 seconds
+  Import took 0.015034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Textures/SwordShield/silver_shiny_Base_Color.png
+  artifactKey: Guid(2df9007627d58ed4898017f6e1f6bb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/silver_shiny_Base_Color.png using Guid(2df9007627d58ed4898017f6e1f6bb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b818abe0de235230e6bb27b0e82df49e') in 0.011303 seconds
+  Import took 0.014376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Textures/SwordShield/leather_hilts_Roughness.png
+  artifactKey: Guid(c7fe5047f1fe2424398b6c8a9d750974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/leather_hilts_Roughness.png using Guid(c7fe5047f1fe2424398b6c8a9d750974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4602ce764e80d641c71c0b4089889c') in 0.011018 seconds
+  Import took 0.013596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Textures/SwordShield/gold_matte_Roughness.png
+  artifactKey: Guid(c361f185dcbc1e241900f57d24ef1994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/gold_matte_Roughness.png using Guid(c361f185dcbc1e241900f57d24ef1994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49d7d3e54041200dfc979df5899115e') in 0.010131 seconds
+  Import took 0.012587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Textures/SwordShield/silver_shiny_Height.png
+  artifactKey: Guid(100e1a6c479b98c499316b4ece1e7f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/silver_shiny_Height.png using Guid(100e1a6c479b98c499316b4ece1e7f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3dbc7772e66a828d204e988935627db') in 0.010101 seconds
+  Import took 0.012346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Textures/SwordShield/silver_matte_Base_Color.png
+  artifactKey: Guid(91a9a726aa1da3f4eaab18fffc260e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/silver_matte_Base_Color.png using Guid(91a9a726aa1da3f4eaab18fffc260e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96a86a33985be9eb17fdb95b52e99eb') in 0.011485 seconds
+  Import took 0.013998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.535047 seconds.
+  path: Assets/Textures/SwordShield/silver_shiny_Metallic.png
+  artifactKey: Guid(9a2a578c9bcfe5843880d0a0fccbc4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/silver_shiny_Metallic.png using Guid(9a2a578c9bcfe5843880d0a0fccbc4c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e0f6da46f71d5af80c2a6178cd8875') in 0.011002 seconds
+  Import took 0.014690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Textures/SwordShield/Sword.fbx
+  artifactKey: Guid(fc7a39621eb4737439d7e74971dc6346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/Sword.fbx using Guid(fc7a39621eb4737439d7e74971dc6346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dda702e1839b3e8791456d6518572d9') in 0.046099 seconds
+  Import took 0.049440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Textures/SwordShield/silver_shiny_Roughness.png
+  artifactKey: Guid(45265450345c4894cb1d747bcfaf4ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/silver_shiny_Roughness.png using Guid(45265450345c4894cb1d747bcfaf4ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1cdd85c9638ca63ba250122c31a5239') in 0.010405 seconds
+  Import took 0.013021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Textures/SwordShield/wood_haft_Height.png
+  artifactKey: Guid(7124923a01f2d4148a6a9712defbb5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/wood_haft_Height.png using Guid(7124923a01f2d4148a6a9712defbb5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213f3b56a387e36692c1e98a3ff4dda8') in 0.011500 seconds
+  Import took 0.014179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Textures/SwordShield/wood_haft_Base_Color.png
+  artifactKey: Guid(5c3258486d47cc24185f64c7e1c31001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/wood_haft_Base_Color.png using Guid(5c3258486d47cc24185f64c7e1c31001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd1ad5d3bc551ba3ce14fee8f24ad28') in 0.010483 seconds
+  Import took 0.013147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Textures/SwordShield/wood_haft_Roughness.png
+  artifactKey: Guid(45da3c0e7e896b246be4531436428ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/wood_haft_Roughness.png using Guid(45da3c0e7e896b246be4531436428ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cad1e3a37f9af8ac6feeb5d21aab61c') in 0.011854 seconds
+  Import took 0.015199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.197527 seconds.
+  path: Assets/Textures/SwordShield/silver_shiny_Height.png
+  artifactKey: Guid(100e1a6c479b98c499316b4ece1e7f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/SwordShield/silver_shiny_Height.png using Guid(100e1a6c479b98c499316b4ece1e7f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec7b87547d1408ccbc1d42d48fae99e') in 0.012920 seconds
+  Import took 0.016294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.535268 seconds.
+  path: Assets/Sword.mb
+  artifactKey: Guid(23d792aac88597140ad585c983458521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sword.mb using Guid(23d792aac88597140ad585c983458521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a37038b20b1f5c215662eaee57101ab') in 0.051063 seconds
+  Import took 0.054603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.340002 seconds.
+  path: Assets/Shield.fbx
+  artifactKey: Guid(c25c55cd831fe5a44980bdac1861ffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shield.fbx using Guid(c25c55cd831fe5a44980bdac1861ffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53d1a4816f1510e5813072fbc8fe157') in 0.046685 seconds
+  Import took 0.050632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005492 seconds.
+  path: Assets/Shield.fbx
+  artifactKey: Guid(c25c55cd831fe5a44980bdac1861ffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shield.fbx using Guid(c25c55cd831fe5a44980bdac1861ffb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53d1a4816f1510e5813072fbc8fe157') in 0.048891 seconds
+  Import took 0.052681 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.142 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.6 MB.
+System memory in use after: 82.7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1954.
+Total: 3.739700 ms (FindLiveObjects: 0.682000 ms CreateObjectMapping: 0.162000 ms MarkObjects: 2.854700 ms  DeleteObjects: 0.038800 ms)
+
