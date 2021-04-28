@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: New Prefab Palette
   m_EditorClassIdentifier: 
   prefabs:
-  - gameObject: {fileID: 5606647427116476886, guid: 063510dd85a3d824c9af24cdd120d435, type: 3}
+  - gameObject: {fileID: 5606647427116476886, guid: 063510dd85a3d824c9af24cdd120d435,
+      type: 3}
     settings:
-      m_Strength: 50
+      m_Strength: 73.37815
       m_RotationRangeMin: {x: -90, y: 0, z: 0}
       m_RotationRangeMax: {x: -90, y: 360, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -29,7 +30,8 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: bush_01
-  - gameObject: {fileID: 9001677181048696478, guid: c7a4ea8a74f648e40ab335254e7329b1, type: 3}
+  - gameObject: {fileID: 9001677181048696478, guid: c7a4ea8a74f648e40ab335254e7329b1,
+      type: 3}
     settings:
       m_Strength: 50
       m_RotationRangeMin: {x: -90, y: 0, z: 0}
