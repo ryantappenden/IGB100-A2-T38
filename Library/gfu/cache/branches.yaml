@@ -13,13 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-04-28T16:15:45.197+10:00
-  initializedAtString: 2021-04-28T14:56:14.361+10:00
+  lastUpdatedAtString: 2021-05-01T18:51:18.590+10:00
+  initializedAtString: 2021-05-01T18:49:43.329+10:00
   localBranches:
+  - name: Dan's-version-with-animations
+    tracking: 
   - name: main
     tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   - name: upstream/main
     tracking: '[None]'
@@ -40,8 +44,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Dan's-version-with-animations
     - main
     values:
+    - name: Dan's-version-with-animations
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
     - name: main
       remote:
         name: origin
@@ -54,11 +64,17 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - main
     - Values:
       - main
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/ryantappenden/IGB100-A2-T38.git
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: https://github.com/ryantappenden/IGB100-A2-T38.git
