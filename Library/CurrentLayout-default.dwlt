@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 271}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 204
+  controlID: 438
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -358,9 +358,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -11.569626, y: -12.5978775, z: 98.70427}
+    m_Target: {x: -10.068247, y: -10.398834, z: 99.58481}
     speed: 2
-    m_Value: {x: -11.569626, y: -12.5978775, z: 98.70427}
+    m_Value: {x: -10.068247, y: -10.398834, z: 99.58481}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -407,13 +407,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.13092487, y: -0.12194037, z: 0.016244635, w: 0.9837787}
+    m_Target: {x: 0.117818736, y: -0.108834185, z: 0.013007383, w: 0.9870156}
     speed: 2
-    m_Value: {x: 0.13094285, y: -0.120458834, z: 0.016047467, w: 0.9839137}
+    m_Value: {x: -0.11781873, y: 0.108834185, z: -0.013007383, w: -0.98701555}
   m_Size:
-    m_Target: 52.418682
+    m_Target: 65.988655
     speed: 2
-    m_Value: 52.418682
+    m_Value: 65.988655
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -467,9 +467,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ba470000
-      m_LastClickedID: 18362
-      m_ExpandedIDs: 9afaffff48fbffffba470000644c0000
+      m_SelectedIDs: 66480000
+      m_LastClickedID: 18534
+      m_ExpandedIDs: 90faffff3efbffff104d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -532,23 +532,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Animations
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Animations
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Ryan\OneDrive - Queensland University of Technology\IGB100\Cycle
-    2\GitHub\IGB100-A2-T38
+  m_LastProjectPath: C:\Users\Ryan\Desktop\IGB100-A2-T38-Working
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 40510000
-    m_LastClickedID: 20800
-    m_ExpandedIDs: 000000002e510000305100003251000034510000365100003851000000ca9a3b
+    m_SelectedIDs: 88510000
+    m_LastClickedID: 20872
+    m_ExpandedIDs: 00000000885100008a5100008c5100008e510000905100009251000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -576,7 +575,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002e510000305100003251000034510000365100003851000000ca9a3b
+    m_ExpandedIDs: 00000000885100008a5100008c5100008e510000905100009251000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
