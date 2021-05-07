@@ -27,12 +27,16 @@ public class SwordAttack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        SwingSword();
+        //Prevents the player from attacking if they are currently shielding
+        if (!Input.GetMouseButton(1))
+        {
+            SwingSword();
+        }
     }
 
     private void SwingSword()
     {
-        if (Input.GetMouseButton(0) && Time.time > attackTime)
+        if (Input.GetMouseButton(0) && Time.time > attackTime )
         {
             //Fire effects
             //Instantiate(fireSound, transform.position, transform.rotation);

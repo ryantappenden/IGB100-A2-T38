@@ -23,13 +23,12 @@ public class Player : MonoBehaviour {
 
 	}
 
-    public void takeDamage(float dmg) {
+    public void takeDamage(float dmg) 
+    {
+        //Player is immune to damage while shielding.
+        if(!Input.GetMouseButton(1))
         health -= dmg;
-
-
         healthbar.value = (health / maxHealth);
-        //healthbar.value = (health / maxHealth);       //Uncomment this line of code when healthbar is implemented!
-
         if (health <= 0) {
             mainCamera.SetActive(true);
             Destroy(this.gameObject);
